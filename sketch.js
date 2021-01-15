@@ -64,6 +64,5 @@ function draw() {
  //ball.bounceOff(box3);
  //ball.bounceOff(box4);
 
- drawSprites();
-    
+ drawSprites();  
 }
